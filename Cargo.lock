@@ -67,8 +67,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "dozclock2"
-version = "1.0.0"
+name = "dozclock"
+version = "1.1.0"
 dependencies = [
  "chrono",
  "clap",
